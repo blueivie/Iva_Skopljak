@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/* CSS Document */
+p {
+	color:darkslategray;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+	line-height: 20px;
+	width: 650px;
+	background-color:whitesmoke;
+	padding: 20px;
+}
+.paragraf_2{color:ghostwhite; background-color: rgba(102,20,22,0.87)}
+.novi_blok {
+	background-color:whitesmoke;
+	padding: 20px;
+	margin: 50px;
+	margin-right: -100px;
+	width: 80%;
+}
+h2 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: firebrick;
+}	
+
+span {color: #761717;}
+.pozadina{
+	background-image: url("materijali/IMG_1924.JPG");
+}
+.drugapozadina {
+	background-color:floralwhite;
+}
+.trecapozadina{
+	background-color:gainsboro;
+}
+a {
+	color:firebrick;
+	background-color:white;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
+a:hover {
+	color: darkcyan;
+}
+img{
+	height: 400px;
+}
+mark {
+	background-color: #c97b84;
+	color: white;
+	padding: 2px 4px;
+	border-radius: 4px;
+}
